@@ -9,7 +9,7 @@ Ainda trabalhando na parte do bilionário.
 
 ---
 
-<img align="right" height="160" src="https://media.tenor.com/jeF3QATIpZYAAAAi/iron.gif" />
+<img align="right" height="200" src="https://media.tenor.com/jeF3QATIpZYAAAAi/iron.gif" />
 
 ## `> quem sou`
 
